@@ -1,0 +1,56 @@
+[
+  {
+    "blogId": "az8x4c2kiufkkfv",
+    "blogAuthor": "Some name 1",
+    "blogHeader": "Some header 1",
+    "blogContent": "Some content 1",
+    "blogBannerImage": [
+      {
+        "fieldname": "random image 1",
+        "originalname": "ovidiu-cozma-2CG-809kKuk-unsplash.jpg",
+        "encoding": "7bit",
+        "mimetype": "multipart/form-data",
+        "destination": "./blogImages",
+        "filename": "15b29d87ec68cc98d2df1cbf86938f71",
+        "path": "blogImages/15b29d87ec68cc98d2df1cbf86938f71",
+        "size": 5301786
+      }
+    ]
+  },
+  {
+    "blogId": "az8x4chkiuflhb1",
+    "blogAuthor": "Some name 2",
+    "blogHeader": "Some header 2",
+    "blogContent": "Some content 2",
+    "blogBannerImage": [
+      {
+        "fieldname": "random image 2",
+        "originalname": "ovidiu-cozma-2CG-809kKuk-unsplash.jpg",
+        "encoding": "7bit",
+        "mimetype": "multipart/form-data",
+        "destination": "./blogImages",
+        "filename": "28e01f52578226750f2d0e2c6044b88f",
+        "path": "blogImages/28e01f52578226750f2d0e2c6044b88f",
+        "size": 5301786
+      }
+    ]
+  },
+  {
+    "blogId": "az8x4dzkiufm7a7",
+    "blogAuthor": "Some name 3",
+    "blogHeader": "Some header 3",
+    "blogContent": "Some content 3",
+    "blogBannerImage": [
+      {
+        "fieldname": "random image 3",
+        "originalname": "ovidiu-cozma-2CG-809kKuk-unsplash.jpg",
+        "encoding": "7bit",
+        "mimetype": "multipart/form-data",
+        "destination": "./blogImages",
+        "filename": "5be7c8698cf240a8e99b3e37bd14a84c",
+        "path": "blogImages/5be7c8698cf240a8e99b3e37bd14a84c",
+        "size": 5301786
+      }
+    ]
+  }
+]
